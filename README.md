@@ -21,5 +21,7 @@
 
 📦 Installation & SetupClone the repository:Bashgit clone https://github.com/your-username/fci-ai-assistant.git
 Install dependencies:Bashpip install -r requirements.txt
+
 Run the server:Bashuvicorn main:app --reload
+
 📝 LicenseThis project is licensed under the MIT License.
