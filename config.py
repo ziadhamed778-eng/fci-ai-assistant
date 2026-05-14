@@ -11,5 +11,5 @@ os.makedirs(DB_DIR, exist_ok=True)
 
 # إعدادات الموديلز
 EMBEDDING_MODEL = 'all-MiniLM-L6-v2'
-# حط مفتاح الـ API بتاعك هنا
-GEMINI_API_KEY = "YOUR_GEMINI_API_KEY_HERE"
+
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
