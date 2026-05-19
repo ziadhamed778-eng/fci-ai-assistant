@@ -19,7 +19,7 @@
 
 🔌 API Endpoints (For Developers)EndpointMethodDescription/queryPOSTAsk a question about bylaws or courses./generate-quizPOSTGenerate MCQs based on a specific topic./summarizePOSTGet a summary of a specific lecture.
 
-📦 Installation & SetupClone the repository:Bashgit clone https://github.com/your-username/fci-ai-assistant.git
+📦 Installation & SetupClone the repository:Bashgit clone https://github.com/ziadhamed778-eng/fci-ai-assistant.git
 
 Install dependencies:Bashpip install -r requirements.txt
 
